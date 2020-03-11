@@ -6,3 +6,4 @@ space - jump
 camera turn - q & e
 back - s
 forward - w
+ 
