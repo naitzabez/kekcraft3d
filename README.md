@@ -11,3 +11,4 @@ back - s
 
 forward - w
  
+zoom - mouse scroll
