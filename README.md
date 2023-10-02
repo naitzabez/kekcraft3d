@@ -1,6 +1,6 @@
 # kekcraft3d
-not finished by a long shot
-some stupid game i made when coding a 3d engine in java.. 
+not finished by a long shot, 
+ stupid game i made when coding a 3d engine in java.. 
 
 movement:
 
